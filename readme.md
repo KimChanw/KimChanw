@@ -1,7 +1,7 @@
 <div align=center> 
   
   ![KimChanw's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimChanw&show_icons=true&theme=cobalt)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimChanw&layout=&theme=)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimChanw&layout=compact&theme=)
  
 </div>
 
